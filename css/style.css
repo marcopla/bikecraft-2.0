@@ -8,6 +8,18 @@ ul {
   padding: 0px;
   list-style: none;
 }
+
+a {
+  text-decoration: none;
+}
+
 .header-bg {
-  background-color: #000;
+  background-color: #000000;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
 }
