@@ -101,3 +101,9 @@ img {
   background: #000000;
   color: #ffffff;
 }
+
+.introducao {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 40px;
+}
